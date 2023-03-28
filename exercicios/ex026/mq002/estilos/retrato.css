@@ -1,0 +1,8 @@
+@charcet 'UTF-8';
+
+/* aparelho empe (portrait) */
+
+body {
+    background-image: url(../imagem/cev-portrait.jpg);
+    background-position: center bottom;
+}
